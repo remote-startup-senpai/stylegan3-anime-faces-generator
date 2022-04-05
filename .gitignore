@@ -1,0 +1,13 @@
+env/
+.idea
+
+# Models
+artifacts/*
+
+# Output
+out/*
+
+.history/
+.vscode/
+__pycache__/
+.DS_Store
