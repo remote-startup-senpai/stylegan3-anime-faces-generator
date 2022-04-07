@@ -6,8 +6,7 @@ focused on simply generating images from pre-trained model pickle files.
 You can use any pre-trained StyleGAN3 model, but for the scope of this repository, 
 we will be using a custom pre-trained model on this [Anime Face Dataset](https://github.com/bchao1/Anime-Face-Dataset).
 
-Some generated images:
-
+![random_walk](https://user-images.githubusercontent.com/35907066/162237330-6677eec0-096f-4044-ab85-187c03978d4d.gif)
 ![seed0006](https://user-images.githubusercontent.com/35907066/161806768-462eab77-0e5f-48b5-950b-2e341a1a95ce.png)
 ![seed0007](https://user-images.githubusercontent.com/35907066/161806783-89f8fb90-7cf8-4961-b138-98f834be2bd1.png)
 ![seed0182](https://user-images.githubusercontent.com/35907066/161806795-1500aec4-275c-4ded-83e6-ec06b3eef443.png)
